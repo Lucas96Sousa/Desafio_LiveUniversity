@@ -1,0 +1,11 @@
+{
+  "server": "virtual2.febracorp.org.br:1443",
+  "userName": "user_trial",
+  "password": "7412LIVE!@#$%¨&*()",
+  "options": {
+    "encrypt": true,
+    "database": "CONTOSO",
+    "port": 1433,
+    "trustServerCertificate": true
+  }
+}
